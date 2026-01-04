@@ -1,0 +1,431 @@
+# =========================================================
+# =================      SECTION 1: NODES      =================
+# FORMAT: NodeID, X, Y
+# =========================================================
+
+# --- Outdoor Campus ---
+Main-Gate-Front,230,52
+Main-Gate-Back,230,461
+EE-Entrance-Right,54,164
+EE-Entrance-Left,54,430
+EE-Entrance-Mid,94,294
+EE-Building,54,300
+CS-Building,391,305
+Multipurpose-Building,560,350
+Cafe-I,115,406
+Lab-5,205,413
+Masjid,294,404
+
+# Outdoor Entrances (Renamed to avoid conflict)
+CS-Entrance-Left-O,254,300
+CS-Down-Left Girls-Entrance-O,300,360
+CS-Entrance-Right-O,540,300
+CS-Up-Middle-Entrance-O,395,240
+CS-Down-Right-Entrance-O,492,360
+CS-Down-Middle-Entrance-O,391,360
+Multi-Left-Entrance-O,580,355
+Multi-Right-Entrance-O,720,355
+
+Basketball-Court,462,160
+Badminton-Court,750,200
+Futsal-Court,750,290
+Cafe-II,508,436
+Sports-Room,750,420
+Multi-Stairs-G-Right-Down,576,404
+
+North,230,100
+South,230,400
+West,230,294
+East,580,294
+Mid-Up,391,210
+Mid-Down,391,390
+
+# --- EE Floor A (Basement) ---
+EE-Stairs-A-Left,50,100
+EE-Lab-DLD,120,100
+EE-Lab-Eng,190,100
+EE-A-3,260,100
+EE-A-2,330,100
+EE-A-1,400,100
+EE-Stairs-A-Right,470,100
+EE-Hall-A,260,200
+EE-A-8,50,300
+EE-A-7,120,300
+EE-A-6,190,300
+EE-A-5,260,300
+EE-Entrance-Mid-Internal,330,300
+EE-A-4,400,300
+EE-Lab-6,470,300
+
+# --- EE Floor B (Ground) ---
+EE-Stairs-B-Left,50,100
+EE-Stairs-B-Mid-Up,300,100
+EE-Stairs-B-Right,400,100
+EE-Hall-B,260,200
+EE-Stairs-B-Left-Down,70,300
+EE-Stairs-B-Right-Down,190,300
+EE-B-9,260,300
+EE-B-10,330,300
+EE-B-11,400,300
+
+# --- EE Floor C (1st) ---
+EE-Stairs-C-Left,50,100
+EE-Lab-8,120,100
+EE-C-20,190,100
+EE-C-21,260,100
+EE-Stairs-C-Mid,330,100
+EE-C-16,400,100
+EE-C-15,470,100
+EE-Stairs-C-Right,540,100
+EE-Hall-C,330,200
+EE-Lab-7,50,300
+EE-C-19,120,300
+EE-C-18,190,300
+EE-C-17,260,300
+EE-C-12,400,300
+EE-C-13,470,300
+EE-C-14,540,300
+
+# --- EE Floor D (2nd) ---
+EE-Stairs-D-Left,50,100
+EE-Library-Hall,120,100
+EE-Lab-11,190,100
+EE-Stairs-D-Mid,260,100
+EE-Lab-10,330,100
+EE-Lab-9,400,100
+EE-Stairs-D-Right,500,100
+EE-Hall-D,260,200
+EE-D-28,50,300
+EE-D-27,120,300
+EE-D-26,190,300
+EE-D-25,260,300
+EE-D-24,330,300
+EE-Sitting-Area-D,400,300
+EE-D-23,470,300
+EE-D-22,540,300
+
+# --- EE Floor E (3rd) ---
+EE-Stairs-E-Left,50,100
+EE-Library-Hall,120,100
+EE-Lab-14,170,100
+EE-Lab-12,240,100
+EE-Lab-13,310,100
+EE-Stairs-E-Mid-Down,380,100
+EE-Lab-Electromechanical,450,100
+EE-Lab-Physics,520,100
+EE-Stairs-E-Right,610,100
+EE-Hall-E,330,200
+EE-E-35,50,300
+EE-E-34,120,300
+EE-E-33,190,300
+EE-E-32,260,300
+EE-E-31,330,300
+EE-Sitting-Area-E,400,300
+EE-E-30,470,300
+EE-E-29,540,300
+EE-BCR,610,300
+
+# --- CS Ground Floor ---
+CS-Stairs-Up-Left,100,100
+CS-LLC,200,100
+CS-Up-Middle-Entrance,350,50
+CS-Stairs-Middle-Up,350,250
+CS-Left-Entrance,50,200
+CS-Hall,350,200
+CS-Right-Entrance,650,200
+CS-OneStop,150,300
+CS-Down-Middle-Entrance,350,400
+CS-S2,550,300
+CS-Stairs-Up-Right,650,100
+CS-Down-Right-Entrance,550,400
+CS-Down-Left-Girls,150,400
+
+# --- CS 1st Floor ---
+CS-Stairs-1-Left,100,100
+CS-Lab-1,200,100
+CS-Lab-2,400,100
+CS-Lab-3,500,100
+CS-Stairs-1-Right,700,100
+CS-E-3,50,200
+CS-Hall-1,400,200
+CS-Stairs-1-Middle,400,250
+CS-E-2,200,300
+CS-E-1,200,400
+CS-E-4,750,200
+CS-E-5,750,300
+CS-E-6,750,400
+
+# --- Multipurpose Building Ground ---
+Multi-Left-Entrance,100,300
+Multi-Stairs-G-Right-Down-Left-Up,150,100
+Multi-Auditorium-Entrance,350,400
+Multi-Sitting/Playing-Area,500,150
+Multi-Right-Entrance,600,300
+Multi-Stairs-G-Right-Down-Right-Up,600,250
+Multi-Stairs-G-Right-Down,650,350
+Multi-Hall-G,350,300
+
+# --- Multipurpose Building Basement ---
+Multi-Library,300,300
+Multi-Stairs-B,400,300
+
+# --- Multipurpose Building 1st Floor ---
+Multi-Stairs-1-Left,150,100
+Multi-Stairs-1-Right,650,100
+Multi-Cafeteria-Entrance,500,150
+Multi-Cafeteria-Entrance-Back,200,300
+
+
+# =========================================================
+# =================      SECTION 2: EDGES      =================
+# FORMAT: NodeA, NodeB, Weight
+# =========================================================
+
+# --- Main Campus Paths ---
+Main-Gate-Front,North,10
+Main-Gate-Front,EE-Entrance-Right,35
+North,South,60
+North,Mid-Up,25
+South,Main-Gate-Back,12
+EE-Entrance-Left,Main-Gate-Back,35
+North,CS-Up-Middle-Entrance-O,25
+South,Cafe-II,25
+South,Lab-5,10
+West,Mid-Up,35
+West,Mid-Down,35
+Main-Gate-Front,Badminton-Court,50
+Main-Gate-Front,Basketball-Court,45
+Main-Gate-Back,Masjid,15
+East,Multipurpose-Building,10
+
+# --- EE Area ---
+EE-Building,EE-Entrance-Right,20
+EE-Building,EE-Entrance-Mid,5
+EE-Entrance-Mid,EE-Entrance-Left,25
+EE-Entrance-Mid,EE-Entrance-Right,25
+EE-Building,EE-Entrance-Left,25
+EE-Entrance-Mid,West,15
+EE-Entrance-Left,Cafe-I,10
+Cafe-I,Lab-5,20
+Lab-5,CS-Down-Left Girls-Entrance-O,20
+West,CS-Entrance-Left-O,25
+Mid-Up,CS-Up-Middle-Entrance-O,10
+East,CS-Building,40
+EE-Entrance-Mid,Cafe-I,25
+West,CS-Building,40
+
+# --- NEW REQUEST: EE OUTDOOR TO STAIRS ---
+EE-Entrance-Left,EE-Stairs-A-Left,20
+EE-Entrance-Right,EE-Stairs-A-Right,20
+EE-Hall-A,EE-Entrance-Right,10
+EE-Hall-A,EE-Entrance-Left,10
+
+# --- CS Area (Outdoor) ---
+CS-Entrance-Left-O,Masjid,15
+Masjid,Mid-Down,20
+Mid-Down,Cafe-II,25
+CS-Down-Right-Entrance-O,Cafe-II,20
+CS-Entrance-Right-O,East,20
+CS-Up-Middle-Entrance-O,CS-Down-Middle-Entrance-O,50
+Mid-Down,CS-Down-Middle-Entrance-O,10
+Mid-Down,CS-Down-Right-Entrance-O,20
+Mid-Down,CS-Down-Left Girls-Entrance-O,20
+Mid-Down,East,40
+Mid-Up,East,40
+
+# --- Sports & Multi Area ---
+CS-Up-Middle-Entrance-O,Basketball-Court,25
+Basketball-Court,Badminton-Court,40
+East,Multi-Left-Entrance-O,25
+Multi-Left-Entrance-O,Multi-Right-Entrance-O,30
+Multi-Right-Entrance-O,Futsal-Court,20
+Futsal-Court,Sports-Room,15
+Sports-Room,Cafe-II,45
+Badminton-Court,Multi-Right-Entrance-O,30
+Mid-Up,Basketball-Court,35
+Masjid,Multi-Left-Entrance-O,55
+Cafe-II,Sports-Room,45
+Cafe-II,Multipurpose-Building,30
+East,Badminton-Court,35
+East,Futsal-Court,35
+Futsal-Court,Badminton-Court,20
+
+# --- EE Internal Logic (Shortcuts) ---
+EE-Entrance-Mid-Internal,EE-Hall-A,15
+EE-Entrance-Left,EE-Hall-A,45
+EE-Entrance-Right,EE-Hall-A,35
+EE-Entrance-Mid,EE-Entrance-Mid-Internal,10
+
+# --- CS Internal Logic (Outdoor to Indoor) ---
+CS-Up-Middle-Entrance-O,CS-Up-Middle-Entrance,2
+CS-Entrance-Left-O,CS-Left-Entrance,2
+CS-Down-Left Girls-Entrance-O,CS-Down-Left-Girls,2
+CS-Entrance-Right-O,CS-Right-Entrance,2
+CS-Down-Right-Entrance-O,CS-Down-Right-Entrance,2
+CS-Down-Middle-Entrance-O,CS-Down-Middle-Entrance,2
+
+# --- Multi Internal Logic (Outdoor to Indoor) ---
+Multi-Left-Entrance-O,Multi-Left-Entrance,5
+Multi-Right-Entrance-O,Multi-Right-Entrance,5
+
+Multi-Stairs-G-Right-Down,Multi-Stairs-B,20
+Multi-Stairs-G-Right-Down,Multi-Stairs-1,20
+Multi-Left-Entrance,Multi-Stairs-G-Right-Down,15
+Multi-Right-Entrance,Multi-Stairs-G-Right-Down,10
+
+# --- EE Floor A ---
+EE-Stairs-A-Left,EE-Hall-A,35
+EE-Lab-DLD,EE-Hall-A,25
+EE-Lab-Eng,EE-Hall-A,15
+EE-A-3,EE-Hall-A,10
+EE-A-2,EE-Hall-A,15
+EE-A-1,EE-Hall-A,25
+EE-Stairs-A-Right,EE-Hall-A,35
+EE-A-8,EE-Hall-A,35
+EE-A-7,EE-Hall-A,25
+EE-A-6,EE-Hall-A,15
+EE-A-5,EE-Hall-A,10
+EE-Entrance-Mid-Internal,EE-Hall-A,15
+EE-A-4,EE-Hall-A,25
+EE-Lab-6,EE-Hall-A,35
+
+# --- EE Floor B ---
+EE-Stairs-B-Left,EE-Hall-B,35
+EE-Stairs-B-Mid-Up,EE-Hall-B,10
+EE-Stairs-B-Right,EE-Hall-B,25
+EE-Stairs-B-Left-Down,EE-Hall-B,35
+EE-Stairs-B-Right-Down,EE-Hall-B,15
+EE-B-9,EE-Hall-B,10
+EE-B-10,EE-Hall-B,15
+EE-B-11,EE-Hall-B,25
+
+# --- EE Floor C ---
+EE-Stairs-C-Left,EE-Hall-C,45
+EE-Lab-8,EE-Hall-C,35
+EE-C-20,EE-Hall-C,25
+EE-C-21,EE-Hall-C,15
+EE-Stairs-C-Mid,EE-Hall-C,10
+EE-C-16,EE-Hall-C,15
+EE-C-15,EE-Hall-C,25
+EE-Stairs-C-Right,EE-Hall-C,35
+EE-Lab-7,EE-Hall-C,45
+EE-C-19,EE-Hall-C,35
+EE-C-18,EE-Hall-C,25
+EE-C-17,EE-Hall-C,15
+EE-C-12,EE-Hall-C,15
+EE-C-13,EE-Hall-C,25
+EE-C-14,EE-Hall-C,35
+
+# --- EE Floor D ---
+EE-Stairs-D-Left,EE-Hall-D,35
+EE-Library-Hall,EE-Hall-D,25
+EE-Lab-11,EE-Hall-D,15
+EE-Stairs-D-Mid,EE-Hall-D,10
+EE-Lab-10,EE-Hall-D,15
+EE-Lab-9,EE-Hall-D,25
+EE-Stairs-D-Right,EE-Hall-D,40
+EE-D-28,EE-Hall-D,35
+EE-D-27,EE-Hall-D,25
+EE-D-26,EE-Hall-D,15
+EE-D-25,EE-Hall-D,10
+EE-D-24,EE-Hall-D,15
+EE-Sitting-Area-D,EE-Hall-D,25
+EE-D-23,EE-Hall-D,35
+EE-D-22,EE-Hall-D,45
+
+# --- EE Floor E ---
+EE-Stairs-E-Left,EE-Hall-E,45
+EE-Library-Hall,EE-Hall-E,35
+EE-Lab-14,EE-Hall-E,25
+EE-Lab-12,EE-Hall-E,15
+EE-Lab-13,EE-Hall-E,10
+EE-Stairs-E-Mid-Down,EE-Hall-E,10
+EE-Lab-Electromechanical,EE-Hall-E,20
+EE-Lab-Physics,EE-Hall-E,30
+EE-Stairs-E-Right,EE-Hall-E,45
+EE-E-35,EE-Hall-E,45
+EE-E-34,EE-Hall-E,35
+EE-E-33,EE-Hall-E,25
+EE-E-32,EE-Hall-E,15
+EE-E-31,EE-Hall-E,10
+EE-Sitting-Area-E,EE-Hall-E,15
+EE-E-30,EE-Hall-E,25
+EE-E-29,EE-Hall-E,35
+EE-BCR,EE-Hall-E,45
+
+# --- EE Vertical ---
+EE-Stairs-A-Left,EE-Stairs-B-Left-Down,20
+EE-Stairs-A-Right,EE-Stairs-B-Right-Down,20
+EE-Stairs-B-Left,EE-Stairs-C-Left,20
+EE-Stairs-B-Mid-Up,EE-Stairs-C-Mid,20
+EE-Stairs-B-Right,EE-Stairs-C-Right,20
+EE-Stairs-C-Left,EE-Stairs-D-Left,20
+EE-Stairs-C-Mid,EE-Stairs-D-Mid,20
+EE-Stairs-C-Right,EE-Stairs-D-Right,20
+EE-Stairs-D-Left,EE-Stairs-E-Left,20
+EE-Stairs-D-Mid,EE-Stairs-E-Mid-Down,20
+EE-Stairs-D-Right,EE-Stairs-E-Right,20
+
+# --- CS Ground ---
+CS-Stairs-Up-Left,CS-Hall,40
+CS-LLC,CS-Hall,25
+CS-Up-Middle-Entrance,CS-Hall,10
+CS-Stairs-Middle-Up,CS-Hall,15
+CS-Left-Entrance,CS-Hall,45
+CS-Hall,CS-Right-Entrance,45
+CS-Up-Middle-Entrance,CS-Hall,10
+CS-Left-Entrance,CS-OneStop,15
+CS-OneStop,CS-Hall,30
+CS-Hall,CS-Down-Left-Girls,30
+CS-OneStop,CS-Down-Left-Girls,5
+CS-Hall,CS-Down-Middle-Entrance,15
+CS-Right-Entrance,CS-S2,15
+CS-S2,CS-Hall,30
+CS-Hall,CS-Down-Right-Entrance,30
+CS-S2,CS-Down-Right-Entrance,5
+CS-Stairs-Up-Right,CS-Hall,45
+
+# --- CS 1st Floor ---
+CS-Stairs-1-Left,CS-Hall-1,45
+CS-E-3,CS-Hall-1,50
+CS-Hall-1,CS-E-4,50
+CS-Lab-1,CS-Hall-1,30
+CS-Lab-2,CS-Hall-1,10
+CS-Lab-3,CS-Hall-1,20
+CS-Hall-1,CS-Stairs-1-Middle,20
+CS-Hall-1,CS-E-2,30
+CS-Hall-1,CS-E-5,50
+CS-E-1,CS-Hall-1,40
+CS-E-6,CS-Hall-1,60
+
+# --- CS Vertical ---
+CS-Stairs-Up-Left,CS-Stairs-1-Left,20
+CS-Stairs-Middle-Up,CS-Stairs-1-Middle,20
+CS-Stairs-Up-Right,CS-Stairs-1-Right,20
+CS-Stairs-F-Left,CS-Stairs-Up-Left,20
+
+# --- Multi Building ---
+Multi-Main-Entrance,Multi-Left-Entrance,5
+Multi-Side-Entrance,Multi-Right-Entrance,5
+Multi-Left-Entrance,Multi-Hall-G,40
+Multi-Hall-G,Multi-Left-Entrance,40
+Multi-Hall-G,Multi-Right-Entrance,40
+Multi-Hall-G,Multi-Auditorium-Entrance,15
+Multi-Hall-G,Multi-Stairs-G-Right-Down,45
+Multi-Hall-G,Multi-Stairs-G-Right-Down-Left-Up,30
+Multi-Hall-G,Multi-Sitting/Playing-Area,25
+Multi-Hall-G,Multi-Stairs-G-Right-Down-Right-Up,40
+Multi-Stairs-1-Left,Multi-Cafeteria-Entrance,30
+Multi-Stairs-1-Left,Multi-Stairs-1-Right,60
+Multi-Stairs-G-Right-Down-Left-Up,Multi-Stairs-1-Left,20
+Multi-Stairs-G-Right-Down-Right-Up,Multi-Stairs-1-Right,20
+Multi-Cafeteria-Entrance,Multi-Stairs-1-Right,20
+Multi-Cafeteria-Entrance,Multi-Cafeteria-Entrance-Back,40
+Multi-Stairs-G-Right-Down,Multi-Cafeteria-Entrance-Back,50
+Multi-Main-Entrance,East,45
+Multi-Left-Entrance,Multi-Main-Entrance,5
+Multi-Right-Entrance,Multi-Side-Entrance,5
+Multi-Side-Entrance,Futsal-Court,10
+Multi-Main-Entrance,Basketball-Court,60
+Multi-Library,Multi-Stairs-B,15
+Multi-Stairs-G-Right-Down,Multi-Stairs-B,20

@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>data/campus_map_detailed.csv</file>
+        <file>images/campus_map.png</file>
+    </qresource>
+</RCC>
